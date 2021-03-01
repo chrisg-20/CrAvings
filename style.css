@@ -1,0 +1,30 @@
+body {
+    
+    
+    background-color: #0075F2;  
+
+}
+
+#title {
+    
+    text-shadow: 2px 2px black;
+    background-color: #0075F2;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 80px;
+    color: #F6FEAA;
+    border-style: solid;
+    border-width: 30px;
+    border-radius: 100px;
+    border-color: #F6FEAA;
+    font-family: 'Kaushan Script', cursive;   
+    
+}
+
+#subtitle {
+    vertical-align: middle;
+    font-size: 50px;
+    text-shadow: 0px 0px black;
+    font-family: 'Monofett', cursive;
+    
+}
